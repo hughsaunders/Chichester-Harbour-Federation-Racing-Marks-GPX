@@ -7,6 +7,11 @@ A PDF of the data is available at https://www.chifed.org/federation-racing-marks
 
 [marks2.json](marks2.json) is then converted to [marks2.gpx](marks2.gpx) using the [supplied python script](convert_marks_to_gpx.py).
 
+[Example usage of the data in Google Maps](https://www.google.com/maps/d/edit?mid=1Dq8hY-ryBwXa33YT3LSzOKXIc56Aaxw&usp=sharing) (Note that the data point for each mark contains its name, but that view doesn't show the names.)
+![](google-maps-screenshot.png)
+
+
+
 ## Racing Marks to GPX Converter Python Script Instructions
 
 This Python script converts JSON data of racing marks into GPX waypoint format that can be imported into GPS devices and navigation software.
