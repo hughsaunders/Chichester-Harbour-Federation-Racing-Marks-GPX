@@ -2,7 +2,7 @@
 This repo contains a gpx file of all the 2025 racing marks, and a script to generate it.
 The data comes from https://sailingclubsoftware.com/charts/chifed?0.6783275766942094
 Specifically the JSON response from POST https://sailingclubsoftware.com/charts/chart.aspx/GetMarks
-Which is stored in marks.json. This contains the majority of the json in a single string, which is decoded into [marks2.json](marks2.json).
+Which is stored in [marks.json](marks.json). This contains the majority of the json in a single string, which is decoded into [marks2.json](marks2.json).
 A PDF of the data is available at https://www.chifed.org/federation-racing-marks/
 
 [marks2.json](marks2.json) is then converted to [marks2.gpx](marks2.gpx) using the [supplied python script](convert_marks_to_gpx.py).
