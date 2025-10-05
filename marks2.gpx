@@ -1,0 +1,487 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Racing Marks Converter" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Chichester Harbour Racing Marks</name>
+    <desc>Racing marks and waypoints for Chichester Harbour sailing</desc>
+  </metadata>
+  <wpt lat="50.79851667" lon="-0.901133333">
+    <name>Astra</name>
+    <desc>Round to port | Club: TISC | ID: 1192</desc>
+    <cmt>50 47.911N 00 54.068W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.8033" lon="-0.896033333">
+    <name>Baker</name>
+    <desc>Round to port | Club: ISC | ID: 1193</desc>
+    <cmt>50 48.198N 00 53.762W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.84078333" lon="-0.93515">
+    <name>Beacon</name>
+    <desc>Unhanded | Club: ESSC | ID: 1194</desc>
+    <cmt>50 50.447N 00 56.109W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.80736667" lon="-0.837866667">
+    <name>Birdham</name>
+    <desc>Unhanded | Club: CYC | ID: 1195</desc>
+    <cmt>50 48.442N 00 50.272W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.82851667" lon="-0.86268333">
+    <name>Bosham Quay</name>
+    <desc>Unhanded | Club: BSC | ID: 1196</desc>
+    <cmt>50 49.711N 00 51.761W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.81248333" lon="-0.826916667">
+    <name>Bowling</name>
+    <desc>Unhanded | Club: CYC | ID: 1197</desc>
+    <cmt>50 48.749N 00 49.615W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.83351667" lon="-0.97565">
+    <name>Bridge</name>
+    <desc>Unhanded | Club: LSC | ID: 1198</desc>
+    <cmt>50 50.011N 00 58.539W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.78336667" lon="-0.931666667">
+    <name>Calvert</name>
+    <desc>Round to starboard | Club: HISC | ID: 1200</desc>
+    <cmt>50 47.002N 00 55.900W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.797815" lon="-0.900976">
+    <name>Camber Beacon</name>
+    <desc>Post Yellow Black | Club: CHC | ID: 1319</desc>
+    <cmt>50 47.869N 00 54.059W</cmt>
+    <sym>Post</sym>
+  </wpt>
+  <wpt lat="50.80665" lon="-0.942283333">
+    <name>Channel</name>
+    <desc>Round to starboard | Club: HISC | ID: 1199</desc>
+    <cmt>50 48.399N 00 56.537W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.75866667" lon="-0.951">
+    <name>Chi</name>
+    <desc>Unhanded | Club: HISC | ID: 1201</desc>
+    <cmt>50 45.520N 00 57.060W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.8355" lon="-0.961616667">
+    <name>Church</name>
+    <desc>Round to starboard | Club: LSC | ID: 1202</desc>
+    <cmt>50 50.130N 00 57.697W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.81775" lon="-0.873">
+    <name>Cobnor</name>
+    <desc>Round to port | Club: BSC | ID: 1203</desc>
+    <cmt>50 49.065N 00 52.380W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.81273333" lon="-0.817333333">
+    <name>Copperas East</name>
+    <desc>Unhanded | Club: DQSC | ID: 1204</desc>
+    <cmt>50 48.764N 00 49.040W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.81531667" lon="-0.820366667">
+    <name>Copperas West</name>
+    <desc>Unhanded | Club: DQSC | ID: 1205</desc>
+    <cmt>50 48.919N 00 49.222W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.80343333" lon="-0.904366667">
+    <name>Creek Post</name>
+    <desc>Post Yellow | Club: ISC | ID: 1206</desc>
+    <cmt>50 48.206N 00 54.262W</cmt>
+    <sym>Post</sym>
+  </wpt>
+  <wpt lat="50.81608333" lon="-0.817166667">
+    <name>Crouchers</name>
+    <desc>Unhanded | Club: DQSC | ID: 1207</desc>
+    <cmt>50 48.965N 00 49.030W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.83506667" lon="-0.863516667">
+    <name>Cutmill</name>
+    <desc>Round to starboard | Club: BSC | ID: 1208</desc>
+    <cmt>50 50.104N 00 51.811W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.81213333" lon="-0.87185">
+    <name>Deep End</name>
+    <desc>Round to port | Club: BSC | ID: 1209</desc>
+    <cmt>50 48.728N 00 52.311W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.7945" lon="-0.9395">
+    <name>Dip Rythe</name>
+    <desc>Round to port | Club: MRSC | ID: 1211</desc>
+    <cmt>50 47.670N 00 56.370W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.7878" lon="-0.9227">
+    <name>Dunes</name>
+    <desc>Round to starboard | Club: ISC | ID: 1210</desc>
+    <cmt>50 47.268N 00 55.362W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.79203333" lon="-0.904466667">
+    <name>East Head</name>
+    <desc>Round to port | Club: ISC | ID: 1212</desc>
+    <cmt>50 47.522N 00 54.268W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.79415" lon="-0.901733333">
+    <name>Ellanore</name>
+    <desc>Round to starboard | Club: ISC | ID: 1213</desc>
+    <cmt>50 47.649N 00 54.104W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.84146667" lon="-0.937133333">
+    <name>Emsworth Club</name>
+    <desc>Unhanded | Club: ESC | ID: 1214</desc>
+    <cmt>50 50.488N 00 56.228W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.78878333" lon="-0.907783333">
+    <name>Fenner</name>
+    <desc>Unhanded | Club: WWSC | ID: 1215</desc>
+    <cmt>50 47.327N 00 54.467W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.82588333" lon="-0.814433333">
+    <name>Fishbourne</name>
+    <desc>Unhanded | Club: DQSC | ID: 1216</desc>
+    <cmt>50 49.553N 00 48.866W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.83541667" lon="-0.941433333">
+    <name>Fowley</name>
+    <desc>Unhanded | Club: ESC | ID: 1217</desc>
+    <cmt>50 50.125N 00 56.486W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.79041667" lon="-0.931416667">
+    <name>Freddie Brooks</name>
+    <desc>Round to port | Club: HISC | ID: 1218</desc>
+    <cmt>50 47.425N 00 55.885W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.79155" lon="-0.925383333">
+    <name>Gardener</name>
+    <desc>Round to port | Club: HISC | ID: 1219</desc>
+    <cmt>50 47.493N 00 55.523W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.80335" lon="-0.90495">
+    <name>Goal Post East</name>
+    <desc>Post Green | Club: CHC | ID: 1321</desc>
+    <cmt>50 48.201N 00 54.297W</cmt>
+    <sym>Post</sym>
+  </wpt>
+  <wpt lat="50.803467" lon="-0.9057833">
+    <name>Goal Post West</name>
+    <desc>Post Red | Club: CHC | ID: 1320</desc>
+    <cmt>50 48.208N 00 54.347W</cmt>
+    <sym>Post</sym>
+  </wpt>
+  <wpt lat="50.838" lon="-0.938233333">
+    <name>Hackman</name>
+    <desc>Unhanded | Club: ESSC | ID: 1220</desc>
+    <cmt>50 50.280N 00 56.294W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.74553333" lon="-0.975">
+    <name>Hard</name>
+    <desc>Unhanded | Club: HISC | ID: 1221</desc>
+    <cmt>50 44.732N 00 58.500W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.81001667" lon="-0.83025">
+    <name>Heron</name>
+    <desc>Unhanded | Club: CYC | ID: 1222</desc>
+    <cmt>50 48.601N 00 49.815W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.82173333" lon="-0.818516667">
+    <name>Hook</name>
+    <desc>Unhanded | Club: DQSC | ID: 1223</desc>
+    <cmt>50 49.304N 00 49.111W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.83553333" lon="-0.965583333">
+    <name>Island</name>
+    <desc>Round to port | Club: ISC | ID: 1224</desc>
+    <cmt>50 50.132N 00 57.935W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.81023333" lon="-0.875366667">
+    <name>Itchenor</name>
+    <desc>Round to starboard | Club: ISC | ID: 1225</desc>
+    <cmt>50 48.614N 00 52.522W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.79256667" lon="-0.914766667">
+    <name>John Davis</name>
+    <desc>Round to port | Club: ISC | ID: 1226</desc>
+    <cmt>50 47.554N 00 54.886W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.79433333" lon="-0.914016667">
+    <name>Johns Folly</name>
+    <desc>Round to port | Club: ISC | ID: 1227</desc>
+    <cmt>50 47.660N 00 54.841W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.787483" lon="-0.906416667">
+    <name>Kewell</name>
+    <desc>Unhanded | Club: WWSC | ID: 1228</desc>
+    <cmt>50 47.249N 00 54.385W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.80833333" lon="-0.816666667">
+    <name>Kiln</name>
+    <desc>Unhanded | Club: DQSC | ID: 1229</desc>
+    <cmt>50 48.500N 00 49.000W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.84171667" lon="-0.947816667">
+    <name>Kits Folly</name>
+    <desc>Unhanded | Club: ESC | ID: 1230</desc>
+    <cmt>50 50.503N 00 56.869W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.80628333" lon="-0.826783333">
+    <name>Lake</name>
+    <desc>Round to starboard | Club: CYC | ID: 1231</desc>
+    <cmt>50 48.377N 00 49.607W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.8045" lon="-0.841666667">
+    <name>Longmore</name>
+    <desc>Unhanded | Club: CYC | ID: 1232</desc>
+    <cmt>50 48.270N 00 50.500W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.7943" lon="-0.909633333">
+    <name>Lowles</name>
+    <desc>Round to starboard | Club: TISC | ID: 1233</desc>
+    <cmt>50 47.658N 00 54.578W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.81001667" lon="-0.825883333">
+    <name>Marina</name>
+    <desc>Unhanded | Club: DQSC | ID: 1234</desc>
+    <cmt>50 48.601N 00 49.553W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.8141" lon="-0.945766667">
+    <name>Marker</name>
+    <desc>Round to starboard | Club: ESC | ID: 1235</desc>
+    <cmt>50 48.846N 00 56.746W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.8002" lon="-0.9427333">
+    <name>Mill Rythe</name>
+    <desc>Round to port | Club: CHC | ID: 1322</desc>
+    <cmt>50 48.012N 00 56.564W</cmt>
+    <sym>Buoy, Red</sym>
+  </wpt>
+  <wpt lat="50.80681667" lon="-0.832516667">
+    <name>Monkey</name>
+    <desc>Unhanded | Club: CYC | ID: 1236</desc>
+    <cmt>50 48.409N 00 49.951W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.82825" lon="-0.9499">
+    <name>NEH</name>
+    <desc>Round to starboard | Club: ESC | ID: 1237</desc>
+    <cmt>50 49.695N 00 56.994W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.82638333" lon="-0.947266667">
+    <name>Northney</name>
+    <desc>Round to port | Club: ESSC | ID: 1238</desc>
+    <cmt>50 49.583N 00 56.836W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.80788333" lon="-0.891883333">
+    <name>Park</name>
+    <desc>Round to starboard | Club: ISC | ID: 1239</desc>
+    <cmt>50 48.473N 00 53.513W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.80263333" lon="-0.893333333">
+    <name>Peacock</name>
+    <desc>Round to port | Club: ISC | ID: 1240</desc>
+    <cmt>50 48.158N 00 53.600W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.80008333" lon="-0.923266667">
+    <name>Pivot</name>
+    <desc>Unhanded | Club: MRSC | ID: 1241</desc>
+    <cmt>50 48.005N 00 55.396W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.8206" lon="-0.945216667">
+    <name>Pusinelli</name>
+    <desc>Unhanded | Club: ESC | ID: 1242</desc>
+    <cmt>50 49.236N 00 56.713W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.819" lon="-0.81795">
+    <name>Quay</name>
+    <desc>Unhanded | Club: DQSC | ID: 1243</desc>
+    <cmt>50 49.140N 00 49.077W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.75866667" lon="-0.9935">
+    <name>Rizzi</name>
+    <desc>Unhanded | Club: HISC | ID: 1244</desc>
+    <cmt>50 45.520N 00 59.610W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.7988" lon="-0.8972">
+    <name>Rookwood</name>
+    <desc>Round to starboard | Club: CHC | ID: 1323</desc>
+    <cmt>50 47.928N 00 53.832W</cmt>
+    <sym>Buoy, Green</sym>
+  </wpt>
+  <wpt lat="50.7951" lon="-0.92355">
+    <name>Runway</name>
+    <desc>Round to starboard | Club: MRSC | ID: 1245</desc>
+    <cmt>50 47.706N 00 55.413W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.78675" lon="-0.935283333">
+    <name>Sandy</name>
+    <desc>Unhanded | Club: HISC | ID: 1246</desc>
+    <cmt>50 47.205N 00 56.117W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.82528333" lon="-0.9429">
+    <name>Shepherd</name>
+    <desc>Unhanded | Club: ESSC | ID: 1247</desc>
+    <cmt>50 49.517N 00 56.574W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.78878333" lon="-0.939616667">
+    <name>Smithy</name>
+    <desc>Unhanded | Club: MRSC | ID: 1248</desc>
+    <cmt>50 47.327N 00 56.377W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.75866667" lon="-0.975">
+    <name>Sparkes</name>
+    <desc>Unhanded | Club: HISC | ID: 1249</desc>
+    <cmt>50 45.520N 00 58.500W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.82616667" lon="-0.905916667">
+    <name>Stanbury</name>
+    <desc>Round to starboard | Club: TISC | ID: 1250</desc>
+    <cmt>50 49.570N 00 54.355W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.81031667" lon="-0.905683333">
+    <name>Star</name>
+    <desc>Round to starboard | Club: TISC | ID: 1251</desc>
+    <cmt>50 48.619N 00 54.341W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.79138333" lon="-0.918183333">
+    <name>SW Pilsey</name>
+    <desc>Round to starboard | Club: HISC | ID: 1252</desc>
+    <cmt>50 47.483N 00 55.091W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.82798333" lon="-0.948566667">
+    <name>Sweare Deep</name>
+    <desc>Round to starboard | Club: ESC | ID: 1253</desc>
+    <cmt>50 49.679N 00 56.914W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.7962" lon="-0.9034667">
+    <name>Thorney</name>
+    <desc>Round to starboard | Club: ISC | ID: 1254</desc>
+    <cmt>50 47.772N 00 54.208W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.78016667" lon="-0.93315">
+    <name>Treloar</name>
+    <desc>Round to port | Club: HISC | ID: 1255</desc>
+    <cmt>50 46.810N 00 55.989W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.82383333" lon="-0.946166667">
+    <name>Tye</name>
+    <desc>Unhanded | Club: ESSC | ID: 1256</desc>
+    <cmt>50 49.430N 00 56.770W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.83816667" lon="-0.971">
+    <name>Wade</name>
+    <desc>Unhanded | Club: LSC | ID: 1257</desc>
+    <cmt>50 50.290N 00 58.260W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.83266667" lon="-0.955166667">
+    <name>Walsh</name>
+    <desc>Unhanded | Club: ESSC | ID: 1258</desc>
+    <cmt>50 49.960N 00 57.310W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.77216667" lon="-0.975">
+    <name>WE</name>
+    <desc>Unhanded | Club: HISC | ID: 1259</desc>
+    <cmt>50 46.330N 00 58.500W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.80946667" lon="-0.888433333">
+    <name>Wear</name>
+    <desc>Round to port | Club: ISC | ID: 1260</desc>
+    <cmt>50 48.568N 00 53.306W</cmt>
+    <sym>Buoy, Red/Yellow</sym>
+  </wpt>
+  <wpt lat="50.83423333" lon="-0.973783333">
+    <name>West Cuts</name>
+    <desc>Unhanded | Club: LSC | ID: 1261</desc>
+    <cmt>50 50.054N 00 58.427W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.80316667" lon="-0.838366667">
+    <name>Westlands</name>
+    <desc>Unhanded | Club: CYC | ID: 1262</desc>
+    <cmt>50 48.190N 00 50.302W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.82895" lon="-0.9428">
+    <name>Wickor</name>
+    <desc>Round to starboard | Club: ESC | ID: 1263</desc>
+    <cmt>50 49.737N 00 56.568W</cmt>
+    <sym>Buoy, Green/Yellow</sym>
+  </wpt>
+  <wpt lat="50.82516747" lon="-0.859333333">
+    <name>Windmill</name>
+    <desc>Unhanded | Club: BSC | ID: 1264</desc>
+    <cmt>50 49.510N 00 51.560W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.79073333" lon="-0.9028">
+    <name>WWSC North</name>
+    <desc>Unhanded | Club: WWSC | ID: 1265</desc>
+    <cmt>50 47.444N 00 54.168W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+  <wpt lat="50.78938333" lon="-0.902783333">
+    <name>WWSC South</name>
+    <desc>Unhanded | Club: WWSC | ID: 1266</desc>
+    <cmt>50 47.363N 00 54.167W</cmt>
+    <sym>Buoy, Yellow</sym>
+  </wpt>
+</gpx>
