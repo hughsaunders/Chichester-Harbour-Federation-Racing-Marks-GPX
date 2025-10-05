@@ -1,5 +1,5 @@
 # Chichester Harbor Federation Racing Marks
-This repo contains a gpx file of all the 2025 racing marks, and a script to generate it.
+This repo contains a [gpx file of all the 2025 racing marks](marks2.gps), and a [script](convert_marks_to_gpx.py) to generate it.
 The data comes from https://sailingclubsoftware.com/charts/chifed?0.6783275766942094
 Specifically the JSON response from POST https://sailingclubsoftware.com/charts/chart.aspx/GetMarks
 Which is stored in [marks.json](marks.json). This contains the majority of the json in a single string, which is decoded into [marks2.json](marks2.json).
